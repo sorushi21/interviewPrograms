@@ -7,7 +7,7 @@ public class ReverseString {
 	@Test
 	public void test01() {
 		
-		String str = "Rushikesh";
+		String str = "Real Madrid";
 		
 		String revStr = "";
 		
